@@ -20,6 +20,8 @@ La siguiente tabla muestra una referenia de los articulos usados hasta el moment
 |10 | kernel LS | Metodo LS con diccionario de vectores en series de tiempo.(seleccion de ventanas) |
 |11 | kernel recursive for time varying | aparece como referencia en (10)|
 |12 | SimpleMKL | referencia interesante de (10)|
+|13 | tobar014 | Paper tobar sobre vector valued RKHS |
+|14 | **colt05** | Combinacion convexa optima de kernels (abstracta), links con trabajo actual. |
 
 **Obs**: los articulos sin observaciones son referencias almacenadas pero no revisadas.
 
