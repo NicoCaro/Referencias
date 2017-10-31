@@ -22,6 +22,7 @@ La siguiente tabla muestra una referenia de los articulos usados hasta el moment
 |12 | SimpleMKL | referencia interesante de (10)|
 |13 | tobar014 | Paper tobar sobre vector valued RKHS |
 |14 | **colt05** | Combinacion convexa optima de kernels (abstracta), links con trabajo actual. |
+|15 | Low Rank Shaping | Adaptación MKL que "generaliza" una combinación convexa |
 
 **Obs**: los articulos sin observaciones son referencias almacenadas pero no revisadas.
 
